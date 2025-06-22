@@ -12,16 +12,16 @@ Approximating value of Pi using Monte Carlo Simulation.
 
 # Results
 1. Pi Estimation Formula:<br>
-$$
+```math
 \pi \approx 4 \cdot \frac{\text{points in circle}}{\text{total points}}
-$$
+```
 
 2. Pi Estimation Plot:<br>
 ![img](img/circle_plot.png)
 
 3. Pi Value:<br>
-$$
+```math
 \pi \approx 3.141836
-$$
+```
 
 ---
